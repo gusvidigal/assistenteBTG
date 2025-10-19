@@ -50,6 +50,9 @@ A cada vencimento desses prazos ou cumprimento dessas metas parciais, o bot reaj
 
 O cadastro de uma meta relacionada à viagem está implementada no bot.
 
+## Demonstração do bot
+Pode ser acessada aqui: [Demonstração](https://drive.google.com/file/d/1_wzrwYIRIaDXxTmvSNBZSMhONEgkG6Cv/view?usp=sharing)
+
 ## Fluxograma da Jornada do Cliente
 Pode ser acessado por meio desse link: [Fluxograma](https://gusvidigal.github.io/assistenteBTG/)
 
