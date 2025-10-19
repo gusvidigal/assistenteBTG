@@ -51,7 +51,7 @@ A cada vencimento desses prazos ou cumprimento dessas metas parciais, o bot reaj
 O cadastro de uma meta relacionada à viagem está implementada no bot.
 
 ## Fluxograma da Jornada do Cliente
-Pode ser acessado por meio desse link:
+Pode ser acessado por meio desse link: [Fluxograma](https://gusvidigal.github.io/assistenteBTG/)
 
 ## Instalação
 Pré-requisitos:
