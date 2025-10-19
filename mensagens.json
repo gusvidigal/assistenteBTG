@@ -1,0 +1,13 @@
+{
+    "AJUDA": "abcd",
+    "INTERACAO_INVALIDA": "Não entendi sua intenção. Digite 'ajuda' para ver opções.",
+    "metas": {
+        "INICIAL": "Ok! Vamos recomeçar. Conte sobre sua viagem:",
+        "CAMPO_DESTINO": "Pra onde você quer viajar?",
+        "CAMPO_ORCAMENTO": "Qual o orçamento estimado para a viagem (em R$)?",
+        "CAMPO_PRAZO": "Em quantos meses pretende viajar?",
+        "CONFIRMACAO": "Confirma esses dados?\nDestino: %%\nOrçamento: R$%%\nPrazo: %% meses\n\nResponda 'sim' para gerar o plano ou 'não' para corrigir.",
+        "GERANDO_PLANO": "Gerando seu plano... aguarde ✨",
+        "S_N": "Por favor, responda apenas 'sim' ou 'não' para confirmar."
+    }
+}

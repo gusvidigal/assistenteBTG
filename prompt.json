@@ -1,0 +1,11 @@
+{
+    "metas": {
+        "viagens": {
+            "INTENCAO_VIAGEM": "Analise o texto abaixo. Responda 'sim' se o usuário quer planejar uma viagem, ou 'não' caso contrário.\nTexto: \"\"\"%%\"\"\"",
+            "CAMPO_DESTINO": "Extraia APENAS o destino da viagem (cidade/país) do texto abaixo.\nResponda só com o nome do destino (ex: Paris), sem explicações.\nSe não houver destino, responda: null\n\nTexto:\n\"\"\"%%\"\"\"",
+            "CAMPO_ORCAMENTO": "Extraia APENAS o valor numérico do orçamento da viagem (em reais) do texto abaixo.\nResponda só com o número, sem 'R$', pontos ou vírgulas.\nSe não houver orçamento, responda: null\n\nTexto:\n\"\"\"%%\"\"\"",
+            "CAMPO_PRAZO": "Extraia APENAS o prazo até a viagem em MESES do texto abaixo.\nResponda só com o número inteiro (ex: 6).\nSe disser \"ano que vem\", responda 12.\nSe não houver prazo, responda: null\n\nTexto:\n\"\"\"%%\"\"\"",
+            "PLANO_FINAL": "Você é um consultor financeiro de banco.\nCom base nestes dados, gere um plano para alcançar a meta da viagem, com passos mensais e checkpoints financeiros:\n\nDestino: %%\nOrçamento: R$%%\nPrazo (meses): %%\n\nFormato:\n1 Mini-resumo da meta\n2 Plano de ação\n3 Cronograma mensal\n\nA mensagem precisa ter, no máximo, 1000 caracteres, e não pode ter marcações de markdown"
+        }
+    }
+}

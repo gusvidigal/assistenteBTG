@@ -1,3 +1,4 @@
 qual-pokemon-bot-main/
 __pycache__/
 hackatonvenv/
+.env
