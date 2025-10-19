@@ -1,4 +1,5 @@
 import asyncio
+from telebot.formatting import format_text, mbold, escape_markdown
 from bot import USERS, MENSAGENS, bot, ignorarUpdates
 from metas import detectarIntencaoViagem, handlerMensagemMetas
 import comandos

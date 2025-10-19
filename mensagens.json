@@ -1,5 +1,5 @@
 {
-    "AJUDA": "abcd",
+    "AJUDA": "Olá! Eu sou o Assistente Virtual do BTG! Venha descomplicar sua vida financeira conosco!\n\nVocê pode conversar comigo livremente! Experimente: \"Olá, BTG! Como estão minhas finanças hoje?\"\nVocê também pode digitar \"configurações\" para configurar sua conta bancária do seu jeitinho!",
     "INTERACAO_INVALIDA": "Não entendi sua mensagem. Digite 'ajuda' para ver opções.",
     "metas": {
         "INICIAL": "Conte-me mais sobre a sua viagem. Para onde você quer viajar? Qual o orçamento estimado? Em quantos meses?:",

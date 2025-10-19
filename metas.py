@@ -1,4 +1,5 @@
 import random
+from telebot.formatting import format_text, mbold, escape_markdown
 from bot import USERS, MENSAGENS, bot
 from gemini import promptGemini, PROMPTS
 from funcoes import placeHolder
